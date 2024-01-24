@@ -1,4 +1,4 @@
-# This folder contain all works related to structured Query lanquage using mysql workbench.
+# This folder contain all works related to Structured Query Lanquage using mysql workbench.
 - **EXTENSION**
   - CSV files extentions are the files that will be imported to the database to answere questions on it
   - BACPAC file extention are database that will be imported to sql microsoft server to answer the question.
